@@ -15,7 +15,7 @@ This interactive Tableau dashboard analyzes salaries, rent burden, transport aff
 
 ## 🖼️ Screenshot Preview
 
-![Dashboard Screenshot](relative-path-or-uploaded-link)
+![Dashboard Screenshot](Dashboard.png)
 
 ## 🌐 View the Full Interactive Dashboard
 
